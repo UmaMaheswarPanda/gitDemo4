@@ -1,4 +1,1 @@
-Hello now we are here in git demo4 and in the branch called main
-main branch
-
-main
+this one is the main branch to check the both readme file that have in both master and main
